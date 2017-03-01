@@ -7,11 +7,14 @@ A tool for get grade from web
 # Usage
 python get-grade -u username -p password -y years -g grade
 
-years
-	- 2015 2015-2016学年
+years:
+
+    - 2015 2015-2016学年
 	- 2016 2016-2017学年
 	- so on
-grade
+
+grade:
+
 	- 0 全学期
 	- 1 上学期
 	- 2 下学期
